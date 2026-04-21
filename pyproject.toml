@@ -1,0 +1,9 @@
+[project]
+name = "the-agentic-shift-part-1"
+version = "0.1.0"
+description = "Repo that accompanies the article published originally on https://gamingmechanics.com/insights/the-agentic-shift-part-1"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "google-adk>=1.30.0",
+]
